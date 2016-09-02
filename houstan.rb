@@ -1,4 +1,4 @@
-class Yoostan < Formula
+class Houstan < Formula
   desc "Houstan, a tool for environment management."
   homepage "https://github.com/pieterbreed/houstan"
   url "https://github.com/pieterbreed/houstan-launcher/archive/houstan-launcher-0.9.0.tar.gz"
